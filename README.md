@@ -25,7 +25,7 @@ Step4:Customize the text,image and add some Social Media links.
 
 ![Screenshot (102)](https://github.com/ezhilezhil/Whatsapp-Clone-Portfolio/assets/167604422/ed5cdbff-638e-4931-b982-91a3778daca3)
 
-# Visuals about Whatsapp Portfolio
+# Whatsapp Portfolio Gif
 
 ![MyProfile-GoogleChrome2024-06-0707-08-29online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/ezhilezhil/Whatsapp-Clone-Portfolio/assets/167604422/5bf21d9b-f0e0-4c29-be91-40f44a3f3b82)
 
