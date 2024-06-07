@@ -10,7 +10,7 @@ Step3:To run the WhatsApp Portfolio website Click Index.html
 
 Step4:Customize the text,image and add some Social Media links.
 
-# Website Overview
+# Screenshots 
 ![Screenshot (96)](https://github.com/ezhilezhil/Whatsapp-Clone-Portfolio/assets/167604422/05ead10a-1e74-4d27-97ca-4d1a8cb27b15)
 
 ![Screenshot (97)](https://github.com/ezhilezhil/Whatsapp-Clone-Portfolio/assets/167604422/bd2058f5-955c-4c93-a4bc-e6587280107d)
