@@ -6,7 +6,7 @@ Step1:Download the zip file.
 
 Step2:Now Extract the zip file.
 
-Step3:To run the Event Countdown website Click Index.html
+Step3:To run the WhatsApp Portfolio website Click Index.html
 
 Step4:Customize the text,image and add some Social Media links.
 
