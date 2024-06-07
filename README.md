@@ -1,39 +1,20 @@
-# Attractive Advance Portfolio Website
-## _Chatting Bot Like Design (Whatsapp like interface)_
+# Responsive Whatsapp Portfolio Website
 
+# How To Run 
+Step1:Download the zip file.
 
-- [Running Site](https://vinayak-09.github.io/)
+Step2:Now Extract the zip file.
 
-[![N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
+Step3:To run the Event Countdown website Click Index.html
 
-## Technologies Used
+Step4:Customize the text,image and add some Social Media links.
 
-- HTML
-- Javascript
-- CSS
+# Screenshots 
+![MyProfile-GoogleChrome2024-06-0707-08-29online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/ezhilezhil/Whatsapp-Clone-Portfolio/assets/167604422/5bf21d9b-f0e0-4c29-be91-40f44a3f3b82)
 
-## Features
+# My Portfolio Website
+https://myportfoliowebsite2003.netlify.app/
 
-- Whatsapp like interface
-- Pleasant sounds
-- Lightweighted
-- Social media links
-- Download resume.
-- Map support for address
-- Random replies for hi, bye, i love you.
+# To Support 
+<a href="https://www.buymeacoffee.com/ezhilarasu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<br><br>
-
-## Connect with Me: 
-
-<br>
-
-[![N|Solid](images/telegram.svg)](https://t.me/vinayak_09)
-
-
-[![N|Solid](images/instagram.svg)](https://instagram.com/vinayak_patil_09)
-
-
-<br>
-
-**Free Software, Hell Yeah!**
